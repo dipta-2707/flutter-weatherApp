@@ -1,5 +1,5 @@
 # weatherApp
-Its a web based app made by Flutter and Openweather API< br/>
+Its a web based app made by Flutter and Openweather API <br/>
 You can search for any city weather conditions by this app
 
 <br />
